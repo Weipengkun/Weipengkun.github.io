@@ -16,8 +16,26 @@
 
 ## 🛠 技能徽标
 
+### 编程语言
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 前端技术
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+### 框架和库
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-%230070FF.svg?style=for-the-badge&logo=paddle&logoColor=white)
+
+### 其他技术
+![Matlab](https://img.shields.io/badge/matlab-%23E34F26.svg?style=for-the-badge&logo=matlab&logoColor=white)
+![Latex](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![ECharts](https://img.shields.io/badge/ECharts-%234EA94B.svg?style=for-the-badge&logo=apacheecharts&logoColor=white)
 
 ## 📚 最近阅读
 
