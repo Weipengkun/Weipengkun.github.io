@@ -8,7 +8,7 @@
 - 📚 **专业**：软件工程
 - 🌱 **我正在学习**：最新的Web开发技术和机器学习
 - 💬 **问我关于**：Python, JavaScript, 和任何编程相关的内容
-- 📫 **如何联系我**：通过GitHub Issue或者[我的邮箱](mailto:your-email@example.com)
+- 📫 **如何联系我**：通过GitHub Issue或者[我的邮箱](weipengkuncqu@163.com)
 
 ## 📈 GitHub 统计信息
 
